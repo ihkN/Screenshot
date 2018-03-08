@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenshotTool", "ScreenshotTool\ScreenshotTool.csproj", "{99D9FB50-57BD-42E5-AE65-1C1C19D772F3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Screenshot", "Screenshot\Screenshot.vdproj", "{8FFC3DC9-86E6-42BD-9F63-004807AF8C63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Editor", "Editor\Editor.csproj", "{27ED8968-54A8-4E20-A5EA-DA4FBEF9ACAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99D9FB50-57BD-42E5-AE65-1C1C19D772F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99D9FB50-57BD-42E5-AE65-1C1C19D772F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99D9FB50-57BD-42E5-AE65-1C1C19D772F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99D9FB50-57BD-42E5-AE65-1C1C19D772F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFC3DC9-86E6-42BD-9F63-004807AF8C63}.Debug|Any CPU.ActiveCfg = Debug
+		{8FFC3DC9-86E6-42BD-9F63-004807AF8C63}.Release|Any CPU.ActiveCfg = Release
+		{27ED8968-54A8-4E20-A5EA-DA4FBEF9ACAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27ED8968-54A8-4E20-A5EA-DA4FBEF9ACAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27ED8968-54A8-4E20-A5EA-DA4FBEF9ACAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27ED8968-54A8-4E20-A5EA-DA4FBEF9ACAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C52DA35-F8D0-4D61-BACE-A1277FA9C313}
+	EndGlobalSection
+EndGlobal
